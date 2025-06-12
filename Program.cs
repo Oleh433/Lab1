@@ -3,7 +3,7 @@
     internal class Program
     {
         public static bool canStop = false;
-        private static int numThreads = 4;
+        private static int numThreads = 10;
 
         static void Main(string[] args)
         {
